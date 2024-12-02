@@ -1,0 +1,15 @@
+db.televiosion.bulkWrite(
+    [
+        { insertOne: 
+        {
+            "document" : {brand: "Sony",price(Ghc):150000,size:"Large",number in stock:20}
+        }
+        },
+        {updateOne: 
+        {
+            filter: {brand: "Sony"},
+            update: {$set: {price(Ghc):200000}}
+        }
+        }
+    ]
+);

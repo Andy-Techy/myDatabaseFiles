@@ -1,0 +1,5 @@
+API key
+8aKmS0zCAlc3JKhl96FUYYPiy35YoVmPPBDHZf7wtv9YiPNzbFM3Hba6uDj5WnH6
+
+End point
+https://eu-central-1.aws.data.mongodb-api.com/app/data-agdnqee/endpoint/data/v1

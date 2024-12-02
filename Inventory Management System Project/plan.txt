@@ -1,0 +1,36 @@
+              **********Name of database:Electrical appliances
+
+ 
+
+**************************Attributes:***********************
+i.Brand
+ii.Size
+iii.Price
+iv.Number in stock
+
+
+
+*****************************Collections Names:*****************
+1.Television 
+
+2.Mobile phones 
+
+3.laptops 
+
+4.Kitchen appliances
+       i.Blender
+	ii Refrigerator 
+	iii.Microwave
+	iv.Cooking stove
+	v.Dish washer
+
+5.Audio 
+	i.Headphones
+	ii.Bookshelf speakers
+	iii.Music box
+
+6.Sign up
+
+7.Login
+	
+	mongodb+srv://Miriam:Mongoatlas2.0@projectcluster.yu5it3n.mongodb.net/
